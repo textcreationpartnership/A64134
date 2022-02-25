@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Toleration tolerated: or, A late learned bishops opinion concerning toleration of religion With some brief observations thereon.</title>
+            <author>Taylor, Jeremy, 1613-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64134</idno>
+            <idno type="STC">Wing T402</idno>
+            <idno type="STC">ESTC R218869</idno>
+            <idno type="EEBO-CITATION">99830425</idno>
+            <idno type="PROQUEST">99830425</idno>
+            <idno type="VID">34876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34876)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2022:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Toleration tolerated: or, A late learned bishops opinion concerning toleration of religion With some brief observations thereon.</title>
+                  <author>Taylor, Jeremy, 1613-1667.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by G.L. at the Two Swans without Bishopsgate. With allowance,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1688?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Jeremy Taylor.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication and printer's name from colophon; date of publication from Wing.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious toleration --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb n="1" facs="tcp:34876:1"/>
+            <p>TOLERATION Tolerated: OR, A late Learned Biſhops Opinion concerning Toleration of Religion <hi>With ſome brief Obſervations thereon.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Here preſent thee with the Opinion of a <hi>Dead</hi> 
+               <note n="*" place="margin">Biſhop <hi>Taylor</hi> in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pro<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, <hi>p. 213 Sect. 16.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>Whether it be <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> w<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> a Prince to give Toleration to ſeveral Religions.</hi>
+               </note> 
+               <hi>Biſhop,</hi> ſince the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iving are <hi>Untoward,</hi> and <hi>will not Speak;</hi> and indeed, ſhould all M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n be ſilent, not only the <hi>Dead,</hi> but the very <hi>Stones</hi> would ſpeak, in ſuch a juſt and Righ<g ref="char:EOLhyphen"/>teous Cauſe as is that of His Majeſty's: But I will not <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> detain thee, only desire thee to obſerve with me, the great Difference <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>One</hi> who had no other I was to ſerve, but theſe of Truth and Chriſtianity, and theſe whom <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> juſtly ſuſpected to have a great many little private and particular ends of their Own.</p>
+         </div>
+      </front>
+      <body>
+         <div type="opinion">
+            <p>
+               <hi>Firſt,</hi> 'TIS a great Fault that Men do call the ſeveral Sects of Chriſtians, by the Names of ſeveral Religions. The Religion of JESUS CHRIST is the Form of ſound Doctrine and wholeſome Words, which is ſet down in Scripture indefinitely; actually conveyed to us by plain Places, and ſeparated as for the Que<g ref="char:EOLhyphen"/>ſtion of <hi>Neceſſary</hi> or <hi>not Neceſſary,</hi> by the Symbol of the Apoſtles. Thoſe <hi>Impertinen<g ref="char:EOLhyphen"/>cies</hi> which the <hi>W<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and <hi>V<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ty</hi> of ſome Men, the <hi>Pevishneſs</hi> and <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſeneſs</hi> of others, have Commenced, which their Intereſt have promoted; which ſerve not <hi>Truth</hi> ſo much as their <hi>own Ends,</hi> are far from being diſtinct Religions; for matters of Opinions are no part of the Worſhip of God, nor in Order to it, but as they promote Obedience to his Commandments; and when they contribute towards it, are in that Proportion, as they contribute Parts and Actions, and minute particulars of that Religion they do or pretend to ſerve. And ſuch are all the Sects and Pretences of Chriſtians, but Pieces and Min<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes of Chriſtianity, if they do ſerve the Great End, as every Man for his own Sect and Intereſt, believes for his ſhare it doth.</p>
+            <p>
+               <hi>Secondly, TOLERATION</hi> hath a dou<g ref="char:EOLhyphen"/>ble Sence or Purpoſe; for ſometimes by it, Men underſtand a publick Licence and Exer<g ref="char:EOLhyphen"/>ciſe of a Sect; ſometimes it is only an In<g ref="char:EOLhyphen"/>dempnity of the Perſons, privately to Con<g ref="char:EOLhyphen"/>vene, and to Opine as they ſee Cauſe, and as they mean to anſwer to God. Both theſe are very much to the ſame Purpoſe, unleſs ſome Perſons we are bound to Satis<g ref="char:EOLhyphen"/>fie be ſcandalized, and then the Prince is bound to do, as he is bound to Satisfie. To God it is all one; for Abſtracting from the Offence of Perſons, which is to be con<g ref="char:EOLhyphen"/>ſidered, juſt as our Obligation is to content the Perſons; it is all one, whether we in<g ref="char:EOLhyphen"/>dulge to them to meet publickly or private<g ref="char:EOLhyphen"/>ly to do Actions of Religion, concerning which, we are not perſwaded that they are truly Holy. To God it is juſt one to be in the <hi>Dark</hi> and in the <hi>Light,</hi> the thing is the ſame; only the Circumſtance of publick and
+<pb n="2" facs="tcp:34876:2"/>private, which cannot be concerned in any thing; nor can it concern any thing but Matter of Scandal, and Relation to the Minds and Fantaſies of certain Perſons.</p>
+            <p>
+               <hi>Thirdly,</hi> So that to <hi>Tolerate,</hi> is not to <hi>Perſecute.</hi> And the Queſtion, <hi>Whether the Prince may Tolerate divers Perſwaſions,</hi> is no more, than <hi>Whether he may lawfully Perſe<g ref="char:EOLhyphen"/>cute any Man for not being of his Opinion.</hi> Now in this Caſe, He is juſt ſo to Tolerate Diverſity of Perſwaſions, as he is to Tole<g ref="char:EOLhyphen"/>rate publick Actions; for no Opinion is Ju<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, nor no Perſon Puniſhable but for a Sin; and if his Opinion by reaſon of its Managing, or its Effects be a Sin in it ſelf, or becomes a Sin to the Perſon, then as he is to do towards other Sins, ſo to that O<g ref="char:EOLhyphen"/>pinion, or Man ſo Opining. But to believe ſo or not ſo, when there is no more but meer believing, is not in his Power to en<g ref="char:EOLhyphen"/>joyn, therefore not to puniſh: And it is not only lawful to Tolerate diſagreeing Perſwaſi<g ref="char:EOLhyphen"/>ons, but the Authority of God only is com<g ref="char:EOLhyphen"/>petent to take Notice of it, and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>falli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le to Determinate it, and fit to Judge; and therefore no H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n no Authority is ſuffici<g ref="char:EOLhyphen"/>ent to do all thoſe things, which can juſtifie the Inflicting Temporal Puniſhments upon ſuch as do not Conform in their Perſwaſions, to a Rule or Authority, which is not only fallible, but ſuppoſed by the diſagreeing Perſons to be actually deceived.</p>
+            <p>
+               <hi>Fourthly,</hi> But I conſider in the <hi>Toleration</hi> of a differing Opinion; Religion is not pro<g ref="char:EOLhyphen"/>perly and immediately concerned, ſo as in any Degree to be indangered: For it may be ſafe in Diverſity of Perſwaſions, and it's alſo a part of Chriſtian Religions that the Liberty of mens Conſciences ſhould be pre<g ref="char:EOLhyphen"/>ſerved in all things, where God hath not ſet a Limit, and made a Reſtraint; that the Soul of Man ſhould be free, and acknow<g ref="char:EOLhyphen"/>ledge no Maſter but Jeſus Chriſt; that Mat<g ref="char:EOLhyphen"/>ters Spiritual, ſhould not be reſtrained by Puniſhments Corporal; that the ſame Meek<g ref="char:EOLhyphen"/>neſs and Charity, ſhould be preſerved in the Promotion of Chriſtianity, that gave it Foundation, and Increment, and Firmneſs, in its firſt Publication; that Concluſions ſhould not be more Dogmatical, than the vertual Reſolution and Efficacy of the Pre<g ref="char:EOLhyphen"/>miſes; and that the Perſons ſhould not be more certainly Condemned, than their Opi<g ref="char:EOLhyphen"/>nions Confuted; and laſtly, that the Infir<g ref="char:EOLhyphen"/>mities of Men, and Difficulties of Things, ſhould be both put in Ballance, to make A<g ref="char:EOLhyphen"/>batement in the Definitive Sentence againſt Mens Perſons. But then, becauſe <hi>Toleration</hi> of Opinions is not properly a Queſtion of <hi>Religion,</hi> it may be a Queſtion of <hi>Policy:</hi> And although a Man may be a good Chri<g ref="char:EOLhyphen"/>ſtian, though he believe an Error not Fun<g ref="char:EOLhyphen"/>damental, and not directly or evidently Im<g ref="char:EOLhyphen"/>pious; yet his Opinion may accidentally di<g ref="char:EOLhyphen"/>ſturb the publick Peace, through the Over-activeneſs of the Perſon, and Confidence of their Belief, and the Opinion of its Appen<g ref="char:EOLhyphen"/>dent Neceſſity; and therefore <hi>Toleration</hi> of differing Perſwaſions in theſe Caſes is to be conſidered upon Political Grounds; and is juſt ſo to be permitted or denied, as the <hi>Opi<g ref="char:EOLhyphen"/>nions</hi> or <hi>Tolerations</hi> of them may conflit with the publick and neceſſary Ends of Govern<g ref="char:EOLhyphen"/>ment. Only this: As Chriſtian Princes muſt look to the Intereſt of their Government, ſo eſpecially muſt they look to the Intereſts of Chriſtianity, and not call every Redargation or modeſt Diſcovery of an Eſtabliſhed Error, by the Name of <hi>the Diſturbance of the Peace.</hi> For it is very like, that the Peeviſhneſs and Impatience of Contradiction in the Gover<g ref="char:EOLhyphen"/>nours, may break the Peace: Let them re<g ref="char:EOLhyphen"/>member the Gentleneſs of <hi>Chriſtianity,</hi> and the Liberty of Conſciences which ought to be preſerved; and let them do Juſtice to the Perſons, whoever they are, that are peeviſh, provided no Man's Perſon be over-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orn by Prejudice: For if it be neceſſary for all Men to ſubſcribe to the preſent Eſtabliſhed Religi<g ref="char:EOLhyphen"/>on, by the ſame Reaſon, at another time a man may be bound to ſubſcribe to the Contradi<g ref="char:EOLhyphen"/>ctory, and ſo to all the Religions in the <hi>World:</hi> And they only who by their too much Confi<g ref="char:EOLhyphen"/>dence, intitle God to all their Fancies, and make them to be Queſtions of Religion, and Evidences for Heaven, or Conſignations to Hell, they only think this Doctrine Unrea<g ref="char:EOLhyphen"/>ſonable; and they are the Men that firſt diſturb the Churches Peace, and then think there is no appeaſing the Tumult, but by get<g ref="char:EOLhyphen"/>ting
+<pb n="3" facs="tcp:34876:2"/>the Victory; but they that conſider things wiſely, underſtand, that ſince Salvati<g ref="char:EOLhyphen"/>on and Damnation depends not upon Imper<g ref="char:EOLhyphen"/>tinencies, and yet that Peace and Publick Tranquility may; the Prince in this caſe is to ſeek how to ſecure the Government, and the Iſſues and Intentions of that, while there is in theſe caſes directly no Inſecurity to Religion, unleſs by the accidental Uncharitableneſs of them that Diſpute. Which Uncharitable<g ref="char:EOLhyphen"/>neſs is alſo much prevented when the Publick Peace is ſecured; and no Perſon is on either ſide ingaged upon Revenge, or troubled with Diſgrace, or vexed with Puniſhments by any Decretory Sentence againſt him.</p>
+            <p>It was a Wiſe ſaying of a Stateſman (<hi>Thu<g ref="char:EOLhyphen"/>anus</hi> I mean) <hi>Here<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iei qui p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce data ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tioni<g ref="char:EOLhyphen"/>bus S<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>duntur, Perſecuti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e uni<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> centra Rempublicam.</hi> If you Perſecute <hi>Hereticks</hi> or <hi>Diſcrepants,</hi> they Unite themſelves as to a <hi>Common Defence:</hi> If you permit them, they divide themſelves upon <hi>Private I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> and the rather, if this <hi>Intereſt</hi> was the Ingredient of the Opinion.</p>
+            <p>
+               <hi>Fifthly,</hi> The ſum is this, It concerns the Duty of a Prince, becauſe it concerns the Ho<g ref="char:EOLhyphen"/>nour of God, that all Vices, and every part of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>-life, be Diſcountenanced and Reſtrained, and therefore in Relation to that, Opinions are to be dealt with; for the Underſtanding being to direct the Will, and Opinions to guide our Practices, they are Conſiderable only as they teach Impiety and Vice, as they either Diſhonour God, or Diſobey Him. Now all ſuch Doctrines are to be condemned; but for the Perſons Preaching ſuch Doctrine, if they neither juſtifie nor approve the pre<g ref="char:EOLhyphen"/>tended Conſequences, which are certainly Impious, they are to be ſeparated from th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Conſideration, but if they know ſuch Conſe<g ref="char:EOLhyphen"/>quences, and allow them, or if they do not ſtay till the Doctrines produce Impiety, but take Sin before hand, and manage them Im<g ref="char:EOLhyphen"/>piouſly in any ſence; or if either themſelves or their Doctrine do Really, and without Colour or feigned Pretence, duſturb the Pub<g ref="char:EOLhyphen"/>lick Peace and Juſt Intreſts, they are not to be ſuffered. In all other Caſes 'tis not only Lawful to permit them, but it is also neceſſa<g ref="char:EOLhyphen"/>ry, that Princes, and all in Authority, ſhould Perſecute Diſcrepant Opinions. And in ſuch Caſes, wherein Perſons not otherwiſe incom<g ref="char:EOLhyphen"/>petent, are bound to reprove an Error (as they are in many.) In all theſe, if the Prince make reſtraint, he hinders men from doing their Duty, and from Obeying the the Laws of <hi>Jeſus Chriſt.</hi> [so for that Learned Biſhop]</p>
+         </div>
+         <div type="observations">
+            <p>HEre this Learned and great Man (whom I think I may ſafely pronounce one of the greateſt Ornaments which the <hi>Engliſh</hi> Church or N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on ever had) does not in the leaſt Scru<g ref="char:EOLhyphen"/>ple or Object againſt His Majeſty's Diſpenſing Power, in Tolerating differing Opinions in Religion; and ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith that Religion is not pro<g ref="char:EOLhyphen"/>perly concerned in the queſtion. ſo as in any degree to be ind<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gered; and that it may be ſafe in diverſity of Perſwaſions, and that it is rather a queſtion of Policy then Religion: Nay, he is ſo <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r from ſaying the Prince <hi>may</hi> Tolerate, that he <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ith he <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and leaves it not in his choice or power to Chooſe, and very fairly and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ndidly ſeems rightly to ſtate and determine the preſent Controverſies, <hi>in giving to</hi> Caeſar <hi>the things that are</hi> Caeſars, <hi>and to</hi> God, <hi>the things that are</hi> God's. He ſets the Prince on his Throne, and makes it his Pro<g ref="char:EOLhyphen"/>vince to look after Peace, and to take ſuch Meaſures which may <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cure the Government, and puts it out of his Power to be concern'd with Men's Conſciences. This he very juſtly leaves to the Managery and Conduct of the Great God; And how far His Majeſty's Judgment does quadrate with this Great Man's, I ſhall here briefly ſet down. For,</p>
+            <p>Coming to the Crown of his Anceſtors, he preſently found himſelf to be the Head of a divided Body; and that all his Subjects were a Diſturbed and Contending People, divided into many differing Sects and Factions; and that having had ſeveral Educations, they had ſeveral Conſciencess, he found alſo every Sect and Party fiercely carrying on their own little particular Intreſts; and like Sea-men, every one praying for a Wind to carry their <hi>own</hi> Veſſel out of the Heaven, though the ſame Wind kept their Neighbours Veſſel in the Port or it nay be ſunk or overturn'd it: Theſe things he wiſely conſidered, and thought th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he had as good be a <hi>Soveraign Shepherd, a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Soveraign King over ſuch a People;</hi> therefore
+<pb n="4" facs="tcp:34876:3"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade it his buſineſs to look into the Cauſes of ſuch great Diſorder, and found that their Feuds and Animoſities were about the things of another World; about Truth and Falſhood, Heaven and Hell: And ſhould a People be<g ref="char:EOLhyphen"/>lieving in ſuch things be diſturbed in their Methods, which they <hi>thought</hi> moſt ſuitable, and proper to obtain the one, or avoid the other, He thought (and that with great reaſon) His Kingdom here would be very Troubleſome and Uneaſie; therefore ſeeing them all Fierce and E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ger, and that they would all be Judges in their own Cauſe, He undertook to decide their Differences, and to judge for them, not as to matter of Truth, but as to matter of Peace; and like a Wiſe Chymiſt, ſeeing their Differences principal<g ref="char:EOLhyphen"/>ly roſe from the Mixture and Confuſion of things of a Heterogenial Nature, he ſepa<g ref="char:EOLhyphen"/>rated the one from the other, the <hi>Spiritual</hi> things from the <hi>Temporal;</hi> left the <hi>Spiritual</hi> to <hi>God</hi> and <hi>themſelves,</hi> to whom they moſt properly belong; and took the <hi>Temporal</hi> as his <hi>juſt Right,</hi> and due to <hi>Himſelf</hi>
+            </p>
+            <p>The Caſe ſtands thus, His Majeſty having in a manner wronght a Miracle to Appeaſe his People, <hi>viz. To make the Winds blow from all Corners at once, that all their Reſpective Veſſels may Sail together, and none may ever wax<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Wind to Lanch out at his pleaſure,</hi> One would think they ſhould all be ſatisfied; but we find they are not: And indeed, if we con<g ref="char:EOLhyphen"/>ſider things more narrowly, we cannot in Reaſon expect they ſhould; for things being but in their Formation and growing, if we pull the Fruit before it be ripe, we ſhall find it have but a Crude and Unſavoury Taſte: The Truth is, there has been a Diſeaſe a a long time in the Government, and now it comes to be Canvaſs'd into, and ſearched, the pain in Curing makes ſome men love the Diſeaſe better than the Remedy; and rather than to be troubled with Duſt and Rubiſh, and to have a little Noiſe about their Ears, they had rather have an old rotten Houſe which daily threatens to fall on their Heads) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen to have a New One founded on a Rock, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich the Rains and the Winds, the Wit of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, or Malice of the Devil, ſhall be never <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to pull down.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>COnſcience,</hi> which has been long laſt by ſome Gentlemen, being lately found in a Paper of <hi>Reaſons</hi> I have juſt now Read (which may be call'd <hi>Conſcientia Rediviva)</hi> I dare now let thee know, that the real cauſe of my Publishing this Paper was my <hi>Conſcience.</hi> I think really in my Conſcience, that His Majeſty is hearty and ſincere in what he propoſes, and deſigns nothing but the Good of all His Subjects in general; and that it is the Duty of every Man to Contribute ſomething towards making ſuch a Settlement as he deſires: And I think I have very good Rea<g ref="char:EOLhyphen"/>ſon for this my <hi>Conſcience;</hi> and ſo I think might all others, would they but conſider things impar<g ref="char:EOLhyphen"/>tially. And ſince I am got upon the buſineſs of <hi>Conſcience,</hi> I find there are ſeveral <hi>Conſcien<g ref="char:EOLhyphen"/>ces</hi> in the Nation: There is His Majeſties <hi>Con<g ref="char:EOLhyphen"/>ſcience,</hi> the Biſhops <hi>Conſcience,</hi> and the <hi>Con<g ref="char:EOLhyphen"/>ſciences</hi> of all the ſeveral Sects and Diviſions of <hi>Chriſtians</hi> amongſt us. Now I ſhall not Exa<g ref="char:EOLhyphen"/>mine how <hi>Unconſcionable</hi> ſome of theſe <hi>Conſci<g ref="char:EOLhyphen"/>ences</hi> may be, nor how they came by ſuch their <hi>differing Conſciences,</hi> but how (if poſſible) they may all be ſatisfied. Then in the firſt place, 'Tis but a point of good Manners to let His Ma<g ref="char:EOLhyphen"/>jeſty's <hi>Conſcience</hi> be firſt ſatisfied; nay 'tis a point of Prudence too: And if men would but be wiſe and conſider things as they ought, and had really a mind that their <hi>Conſciences</hi> ſhould be ſatisfied, they would begin here firſt, and ſo re<g ref="char:EOLhyphen"/>concile their Duty and Intreſt; for in letting His Majeſty to have <hi>His Conſcience,</hi> they really ſe<g ref="char:EOLhyphen"/>cure their <hi>own;</hi> for 'tis His Majeſty's <hi>Conſci<g ref="char:EOLhyphen"/>ence,</hi> that all <hi>Conſciences</hi> ſhould be ſatisfied, and that none ſhall be diſturbed in any Way or Method they ſhall chooſe to obtain Eternal Life, or ſecure a Manſion in <hi>another</hi> Would: But then it is not <hi>His Conſcience,</hi> that any ſhould have the power to Diſturb or Ruine their Innocent Neighbours, or be Indulged in a Liberty to chooſe what Irregular Methods they pleaſe in obtaining a Poſſeſſion in <hi>this;</hi> and this ſome <hi>Unconſciona<g ref="char:EOLhyphen"/>ble</hi> Men know, and are very much afraid of; and 'tis His Majeſty's <hi>Juſtice</hi> they dread, more then his <hi>Perſwaſion;</hi> and they could willingly Tolerate the <hi>one,</hi> ſo they might be Exempted from the <hi>other.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by <hi>G. L.</hi> at the <hi>Two Swans</hi> without <hi>Biſhopſgate.</hi> WITH ALLOWANCE.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
